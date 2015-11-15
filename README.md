@@ -7,4 +7,4 @@ npm start
 
 ```
 
-then open local:3000
+then open localhost:3000
